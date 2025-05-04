@@ -1,0 +1,22 @@
+[
+    { "name": "Compra de alimentos", "description": "Compra de supermercado", "date": "2022-04-01T00:00:00.000Z", "price": 120.50 },
+    { "name": "Pagamento de aluguel", "description": "Aluguel do apartamento", "date": "2025-11-02T00:00:00.000Z", "price": 1500.00 },
+    { "name": "Venda de celular", "description": "Venda do iPhone", "date": "2026-04-03T00:00:00.000Z", "price": 1800.00 },
+    { "name": "Cinema", "description": "Ingressos para o cinema", "date": "2025-04-04T00:00:00.000Z", "price": 60.00 },
+    { "name": "Consulta médica", "description": "Consulta de rotina", "date": "2025-04-05T00:00:00.000Z", "price": 250.00 },
+    { "name": "Jantar fora", "description": "Jantar no restaurante", "date": "2025-04-06T00:00:00.000Z", "price": 85.00 },
+    { "name": "Internet", "description": "Pagamento da fatura de internet", "date": "2025-04-07T00:00:00.000Z", "price": 120.00 },
+    { "name": "Compra de roupa", "description": "Roupas para o trabalho", "date": "2025-04-08T00:00:00.000Z", "price": 200.00 },
+    { "name": "Assinatura de streaming", "description": "Assinatura do Netflix", "date": "2025-04-09T00:00:00.000Z", "price": 45.00 },
+    { "name": "Pedágio", "description": "Custo de pedágio na estrada", "date": "2025-04-10T00:00:00.000Z", "price": 15.00 },
+    { "name": "Transporte público", "description": "Bilhete de transporte público", "date": "2025-04-11T00:00:00.000Z", "price": 5.00 },
+    { "name": "Supermercado", "description": "Compra de produtos de limpeza", "date": "2025-04-12T00:00:00.000Z", "price": 80.00 },
+    { "name": "Taxa bancária", "description": "Taxa de manutenção de conta", "date": "2022-04-13T00:00:00.000Z", "price": 20.00 },
+    { "name": "Educação", "description": "Pagamento de mensalidade da faculdade", "date": "2025-05-14T00:00:00.000Z", "price": 900.00 },
+    { "name": "Compra de presentes", "description": "Presentes de aniversário", "date": "2025-05-15T00:00:00.000Z", "price": 150.00 },
+    { "name": "Vacina", "description": "Vacina de prevenção", "date": "2025-07-16T00:00:00.000Z", "price": 50.00 },
+    { "name": "Reparo de carro", "description": "Troca de pneu do carro", "date": "2025-10-17T00:00:00.000Z", "price": 200.00 },
+    { "name": "Salário", "description": "Recebimento de salário", "date": "2025-10-18T00:00:00.000Z", "price": 5000.00 },
+    { "name": "Compra online", "description": "Compra de eletrônicos pela internet", "date": "2025-04-19T00:00:00.000Z", "price": 300.00 },
+    { "name": "Viagem", "description": "Passagens aéreas para merda", "date": "2025-06-20T00:00:00.000Z", "price": 1500.00 }
+]

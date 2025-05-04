@@ -1,0 +1,37 @@
+stages: 
+  - build
+  - test 
+
+variables: 
+  NPM_CACHE_PATH: node_modules
+
+cache: 
+  key: 
+    files: 
+      - package-lock.json
+  paths: 
+    - $NPM_CACHE_PATH
+
+build: 
+  image: node:22-alpine
+  stage: build 
+  tags: 
+    - node 
+    - vite
+  script: 
+    - npm --version
+    - npm ci
+    - npm run build
+  artifacts: 
+    paths: 
+      - build/
+
+test: 
+  image: node:22-alpine
+  stage: test 
+  tags: 
+    - node 
+    - vite
+  script: 
+    - echo "Running tests..."
+    - npm run test
